@@ -15,6 +15,8 @@ Graduate Colleges	CUNY School of Law	http://law.cuny.edu	2 Court Square	Long Isl
 Graduate Colleges	The Graduate School and University Center	http://gc.cuny.edu	365 5th Avenue	New York	NY	10016-4309
 Senior Colleges	Hunter College	http://hunter.cuny.edu	695 Park Avenue	New York	NY	10065-5024
 
+
+This is my answer: /(([0-9]{5})\-([0-9]{4})?)$/
 ```
 
 ### 2. BONUS Binary Challenge
