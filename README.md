@@ -16,7 +16,7 @@ Graduate Colleges	The Graduate School and University Center	http://gc.cuny.edu	3
 Senior Colleges	Hunter College	http://hunter.cuny.edu	695 Park Avenue	New York	NY	10065-5024
 
 
-This is my answer: /(([0-9]{5})\-([0-9]{4})?)$/
+This is my answer: /(([0-9]{5})\-([0-9]{4})?)$/gm
 ```
 
 ### 2. BONUS Binary Challenge
@@ -38,3 +38,4 @@ TEST DATA:
 01101010
 01101011
 ```
+This is my answer: /(^0.*0$)/gm
